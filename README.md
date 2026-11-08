@@ -1,3 +1,14 @@
+#GOOD DOG CLUB
+A fun mock website using VS Code CoPilot.
+
+Features of the website:
+
+- Array of dogs with profiles
+- Each profile contains fictional profile details such as Personality, Name, Gender, Medication, and Favorite Snacks with an option to upload a photo.
+- An option to add dog profiles. 
+- A random color generator for the background
+- Animation of running dogs using shapes
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
