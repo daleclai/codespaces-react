@@ -1,4 +1,5 @@
-#GOOD DOG CLUB
+# GOOD DOG CLUB
+
 A fun mock website using VS Code CoPilot.
 
 Features of the website:
