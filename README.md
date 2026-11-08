@@ -1,6 +1,6 @@
 # GOOD DOG CLUB
 
-A fun mock website using VS Code CoPilot.
+A fun mock website made vin HTML, CSS, and React, using VS Code Copilot.
 
 Features of the website:
 
